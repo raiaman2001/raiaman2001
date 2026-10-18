@@ -1,25 +1,27 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6a7&height=200&section=header&text=Aman%20Rai&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20MCA%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18" alt="Aman Rai banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6a7&height=200&section=header&text=Aman%20Rai&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Enthusiast%20%7C%20MCA%20Student&descAlignY=58&descSize=18" alt="Aman Rai banner" />
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Building+dashboards%2C+pipelines+%26+products;Open+to+Data+Analyst+opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Data+Analyst+%40+TRPW+Strategic+Partners;Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Analytics+%2B+AI+%3D+Smarter+Insights" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raiaman2001&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/Location-Gurgaon%2C%20India-0e75b6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Working%20at-TRPW%20Strategic%20Partners-2ea44f?style=flat-square" alt="Working at TRPW Strategic Partners" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an **MCA student** and **Data Analyst** based in Gurgaon, India, working at the intersection of **data analytics** and **software development**. I enjoy building clean KPI dashboards, writing efficient SQL, and automating repetitive work with Python.
+I'm an **MCA student** and **Data Analyst** based in Gurgaon, India, working at the intersection of **data analytics** and **AI**. I enjoy building clean KPI dashboards, writing efficient SQL, and automating repetitive work with Python.
 
+- 💼 Currently working as a **Data Analyst at TRPW Strategic Partners**
+- 🧠 Combining **data analytics with AI** to turn raw data into faster, smarter insights
 - 📊 Built KPI dashboards and reports using **SQL, Python, Excel and Power BI** during my Data Analyst internship at **Uptoskills**
 - 🤖 Worked on **LLM Post-Training** at **Ethara AI**: data quality checks, validation and structured evaluations
 - 🏢 Completed virtual experience programs with **Deloitte Australia** and **Tata**
@@ -45,6 +47,13 @@ I'm an **MCA student** and **Data Analyst** based in Gurgaon, India, working at 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
 
+**AI & LLMs**
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-6E40C9?style=for-the-badge&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-0E75B6?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge&logoColor=white)
+![Data Quality](https://img.shields.io/badge/Data_Quality_%26_Validation-E36209?style=for-the-badge&logoColor=white)
+
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -58,6 +67,7 @@ I'm an **MCA student** and **Data Analyst** based in Gurgaon, India, working at 
 
 | Role | Organization | Focus |
 |------|--------------|-------|
+| **Data Analyst** (Current) | **TRPW Strategic Partners** | Data analysis, reporting and business insights |
 | Data Analyst Intern | **Uptoskills** | SQL, Python, Excel, Power BI, KPI dashboards |
 | LLM Post-Training Intern | **Ethara AI** | Data quality, validation, structured evaluations |
 | Virtual Intern | **Deloitte Australia** | Data analytics job simulation |
