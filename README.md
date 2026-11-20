@@ -88,27 +88,25 @@ based_in:    Gurgaon, India
 
 ## 🚀 Featured Projects
 
-<!-- Replace placeholders with real repos. One line: problem solved + result. -->
-
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>📈 Project Name 1</h3>
-      <p>One line on the problem solved and the measurable result.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p>
-      <a href="https://github.com/raiaman2001/REPO-NAME">View Repository →</a>
+      <h3>🔬 ResearchMate</h3>
+      <p>AI-powered research assistant that helps find, understand and summarize information faster.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI-6E40C9?style=flat-square" /> <img src="https://img.shields.io/badge/LLM-0E75B6?style=flat-square" /></p>
+      <a href="https://github.com/raiaman2001/ResearchMate">View Repository →</a>
     </td>
     <td width="33%" valign="top">
-      <h3>📊 Project Name 2</h3>
-      <p>One line on the problem solved and the measurable result.</p>
-      <p><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /></p>
-      <a href="https://github.com/raiaman2001/REPO-NAME">View Repository →</a>
+      <h3>🧠 RAG System</h3>
+      <p>Retrieval-Augmented Generation system that answers questions grounded in your own documents.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-00A67E?style=flat-square" /> <img src="https://img.shields.io/badge/LLM-0E75B6?style=flat-square" /></p>
+      <a href="https://github.com/raiaman2001/Rag-System">View Repository →</a>
     </td>
     <td width="33%" valign="top">
-      <h3>🤖 Project Name 3</h3>
-      <p>One line on the problem solved and the measurable result.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></p>
-      <a href="https://github.com/raiaman2001/REPO-NAME">View Repository →</a>
+      <h3>🔄 ETL Pipeline</h3>
+      <p>Data pipeline that extracts, cleans, transforms and loads data into an analysis-ready format.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/ETL-E36209?style=flat-square" /></p>
+      <a href="https://github.com/raiaman2001/ETL_Pipeline">View Repository →</a>
     </td>
   </tr>
 </table>
