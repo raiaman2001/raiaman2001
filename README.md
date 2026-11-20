@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=230&section=header&text=Aman%20Rai&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Data%20Analyst%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20MCA%20Student&descSize=20&descAlignY=58" alt="Aman Rai" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=230&section=header&text=Aman%20Rai&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Data%20Analyst%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20MCA%20Graduate&descSize=20&descAlignY=58" alt="Aman Rai" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00C6A7&center=true&vCenter=true&width=760&height=50&lines=Data+Analyst+%40+TRPW+Strategic+Partners;Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Analytics+%2B+AI+%3D+Smarter+Insights" alt="Typing animation" />
@@ -30,12 +30,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Analyst** and **MCA student** from Gurgaon, India, working at the intersection of **data analytics** and **AI**. I turn raw data into clear KPI dashboards, write efficient SQL, and automate repetitive analysis with Python.
+I'm a **Data Analyst** and **MCA graduate** from Gurgaon, India, working at the intersection of **data analytics** and **AI**. I turn raw data into clear KPI dashboards, write efficient SQL, and automate repetitive analysis with Python.
 
 ```yaml
 name:        Aman Rai
 role:        Data Analyst @ TRPW Strategic Partners
-education:   MCA (pursuing)
+education:   MCA (Master of Computer Applications)
 focus:       [Data Analytics, Business Intelligence, AI / LLM Evaluation]
 core_tools:  [SQL, Python, Power BI, Excel]
 certified:   [Power BI, Advanced Excel] # Infosys Springboard
