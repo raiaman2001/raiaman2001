@@ -134,12 +134,6 @@ based_in:    Gurgaon, India
 
 </div>
 
-<!-- ===================== SNAKE ===================== -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/raiaman2001/raiaman2001/output/github-snake-dark.svg" alt="Contribution snake animation" />
-</div>
-
 <!-- ===================== FOOTER ===================== -->
 
 <div align="center">
